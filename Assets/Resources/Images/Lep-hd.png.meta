@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: feabccf0dcbcfca41ab63d62df6a9870
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lep-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc114f1b4dedf44beca44c03a5940c
+      internalID: 576848641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 456
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7dd1516d7c201499ef918ebab257d1
+      internalID: -1313997049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 456
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ab483b7ae5c5468f87f148f22530f
+      internalID: -1309289978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 449
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9a8466bafcc94ba5b7ea836633a9e
+      internalID: 62155263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 444
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ace176671fb9f46b2969c1adc99322
+      internalID: -1229571960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 439
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49902511111a5cd4685c817136530ead
+      internalID: -411417528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 432
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74427baf40385445ae68a43fee13cdc
+      internalID: -95191430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 431
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6376ee43ec92b147b4df692e8d8b330
+      internalID: -1244494084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 346
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cacdfb7645c4d42a42cd42fa0de3ab
+      internalID: -77862249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189cc68cfb87e894e872a336d7e5ee9e
+      internalID: 1842759881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 344
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96bc061a238a314a8cf254a80907ad0
+      internalID: -1058327509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 338
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07639d4fc5839048bd751b7e009ef9c
+      internalID: 866744397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 334
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fc805474fea84c93658c2f6bccee8
+      internalID: -455093661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 333
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc1b46b38ce604d814d8546fb583e9
+      internalID: -71806660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 330
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5396f0352a362e418ca9f4a6b6122d0
+      internalID: -12795950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 328
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83508387d5819cd4c94066a32f019272
+      internalID: -505809077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 326
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc7fad242c6824caa2104ebadd93a9
+      internalID: 1259169671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_17
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 324
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c09ee67964bb54386570a871b752f7
+      internalID: -904578714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 316
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68e4db45277014caca59e97b807c64
+      internalID: -1161394486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c422df71a75a5f46b2567312a13ab99
+      internalID: 2083434693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49315226243197048b468ed3df805a9b
+      internalID: -724120381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf057ad841478e44b6ed0e1d5077f2f
+      internalID: 793979553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 224
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db924da88487014eb93e4ded606e10d
+      internalID: 327875654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fa7d058f892224d98a9ea9032b7b2f
+      internalID: -1532444861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 223
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b6792153d3434d8cf96eb6de55338
+      internalID: 236978275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 220
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78181f0e7c7c11498b7277bdfbd00f4
+      internalID: -1753052544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_26
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 218
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923e41757e7d8548a819766324234d5
+      internalID: -621338032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_27
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 218
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3a7f3f21eb5b94cab4cdf8f96683fb
+      internalID: -2024153700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 214
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e640a0a30627d74e845844fdc0cb790
+      internalID: -2018965101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7326fe9177576d4b8e02118ef9d0cfb
+      internalID: 1337563815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 116
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adef0cf724431045a6bd2bba890dd2d
+      internalID: -880989914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 115
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111e6559f4e699149928c73d03ff3cd1
+      internalID: -275610777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 112
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e222bf7bef76841aabca1dbafa7fda
+      internalID: 231708673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 113
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a467f255d53e6e04ab8b0c33273059d6
+      internalID: 958469095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 113
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87c04799025114e97fff7bd2d9cb43
+      internalID: 1733039345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 110
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2a6cffaf05cc47ba39f632935856e
+      internalID: 67973025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 110
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea192256c546eb48856501da2dd0867
+      internalID: -1598208321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 108
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb695d7dfcf0ab04ba3f520da1b2f1e7
+      internalID: 2050878625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 108
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a68ec1b0ba7d94aa05442facce0b91
+      internalID: 1953957759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc18f5d66bae324c9a35371458260fd
+      internalID: 1518249782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3e7eebbfc1e2419d94f235f18636f
+      internalID: -1545214375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d00da9c5ddf8549a73f449be14e498
+      internalID: 1533994028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341f46d4a09039459dd5b7d375d5e67
+      internalID: -1377727965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178244a1b1894484da9016e48c81e5b6
+      internalID: 953381679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa61d2f190a95649a97e3f9eedca048
+      internalID: 1708255777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6228fe14203b84d8a519c453f36c34
+      internalID: -832605170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_46
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6dd638d6155bc4ab146468266a6a89
+      internalID: 1124479594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2bc32db71a994d8e4ec2a78d36b00
+      internalID: 1359502616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c437edd99d8a488c1b70372ec711c
+      internalID: 697708660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lep-hd_49
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e177b225e54b45950b22c474e08c1
+      internalID: 1557775484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lep-hd_29: 1337563815
+      Lep-hd_19: 2083434693
+      Lep-hd_5: -411417528
+      Lep-hd_7: -1244494084
+      Lep-hd_27: -2024153700
+      Lep-hd_13: -71806660
+      Lep-hd_47: 1359502616
+      Lep-hd_45: -832605170
+      Lep-hd_30: -880989914
+      Lep-hd_20: -724120381
+      Lep-hd_32: 231708673
+      Lep-hd_2: -1309289978
+      Lep-hd_48: 697708660
+      Lep-hd_34: 1733039345
+      Lep-hd_12: -455093661
+      Lep-hd_31: -275610777
+      Lep-hd_4: -1229571960
+      Lep-hd_9: 1842759881
+      Lep-hd_16: 1259169671
+      Lep-hd_28: -2018965101
+      Lep-hd_3: 62155263
+      Lep-hd_17: -904578714
+      Lep-hd_18: -1161394486
+      Lep-hd_26: -621338032
+      Lep-hd_40: -1545214375
+      Lep-hd_10: -1058327509
+      Lep-hd_21: 793979553
+      Lep-hd_6: -95191430
+      Lep-hd_33: 958469095
+      Lep-hd_25: -1753052544
+      Lep-hd_43: 953381679
+      Lep-hd_38: 1953957759
+      Lep-hd_35: 67973025
+      Lep-hd_0: 576848641
+      Lep-hd_1: -1313997049
+      Lep-hd_22: 327875654
+      Lep-hd_11: 866744397
+      Lep-hd_24: 236978275
+      Lep-hd_44: 1708255777
+      Lep-hd_46: 1124479594
+      Lep-hd_14: -12795950
+      Lep-hd_36: -1598208321
+      Lep-hd_15: -505809077
+      Lep-hd_39: 1518249782
+      Lep-hd_42: -1377727965
+      Lep-hd_41: 1533994028
+      Lep-hd_23: -1532444861
+      Lep-hd_49: 1557775484
+      Lep-hd_8: -77862249
+      Lep-hd_37: 2050878625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
